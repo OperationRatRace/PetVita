@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
+  "homepage": "https://OperationRatRace.github.io/PetVita",
   "scripts": {
     "build": "vite build",
     "dev": "vite"
