@@ -24,7 +24,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/PetVita/',
+  // base: '/PetVita/',
   resolve: {
     alias: {
       // Alias @ to the src directory
