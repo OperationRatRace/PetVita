@@ -145,3 +145,6 @@ vite.config.ts.timestamp-*
 # library and instruction directories
 node_modules/
 guidelines/
+
+# workflows - temporary
+.github/workflows/
